@@ -31,33 +31,45 @@ body{
     height: 45px;
 }
 
-
+a{
+    color: none;
+    list-style: none;
+    font-style: none;
+}
 
 .logo{
-     box-shadow: 0 8px 24px  #010a1f;
+     color: #f2f2f3;
+     box-shadow: 0 2px 8px  #010a1f;
 }
 
 .item1{
-    box-shadow: 0 2px 8px   #010a1f;  
+    color: #f2f2f3;
+    box-shadow: 0 2px 8px  #010a1f;  
 }
 
 .item2{
+    color : #f2f2f3;
     box-shadow: 0 2px 8px   #010a1f;  
 }
 
 .item3{
+     color: #f2f2f3;
      box-shadow: 0 2px 8px   #010a1f;  
 }
 
 .item4{
+    color: #f2f2f3;
     box-shadow: 0 2px 8px    #010a1f;  
 
 }
 
 .item5{
+    color: #f2f2f3;
     box-shadow: 0 2px 8px  #010a16;
     
 }
+
+
 .logo:hover{
     color: rgb(231, 27, 187);
 }

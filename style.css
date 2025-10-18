@@ -1,4 +1,4 @@
-body{
+/*body{
     margin: 0%;
     background-color: rgb(248, 229, 214);
     .container{
@@ -7,12 +7,12 @@ body{
         align-items: baseline;
         column-gap: 50px;
         /* this is the only flex propriety  */
-        height: 30vh;
+      /*  height: 30vh;
         background-color: rgb(115, 46, 142);
         .items{
             /* this is the only flex propriety  */
             
-            display: flex;
+           /* display: flex;
             order: -1;
             justify-content: center;
             align-items: center;
@@ -20,11 +20,11 @@ body{
             flex-shrink: 1;
             /* this is the only flex propriety  */
             
-            margin: 3px;
+          /*  margin: 3px;
             color: aliceblue;
             font-size: xx-large;
             /* width: 15%; */
-            width: 120px;
+         /*   width: 120px;
             background-color: rgba(232, 128, 38, 0.958);
         }
         .logo{
@@ -38,5 +38,5 @@ body{
             flex-shrink: 3;
         } 
         */
-    }
-}
+   /* }*/
+/*}*/
