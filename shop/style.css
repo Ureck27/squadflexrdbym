@@ -1,0 +1,67 @@
+
+body{
+    margin: 0;
+    background-color: #F9FAFB;
+}
+
+.container01{
+    background-color: #0F172A;
+    color: #f2f2f3;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    font-size: large;
+
+    column-gap: 85px;
+    font-family: "BBH Sans Bartle", sans-serif;
+    
+
+
+    height: 45px;
+}
+
+
+
+.logo{
+     box-shadow: 0 8px 24px  #010a1f;
+}
+
+.item1{
+    box-shadow: 0 2px 8px   #010a1f;  
+}
+
+.item2{
+    box-shadow: 0 2px 8px   #010a1f;  
+}
+
+.item3{
+     box-shadow: 0 2px 8px   #010a1f;  
+}
+
+.item4{
+    box-shadow: 0 2px 8px    #010a1f;  
+
+}
+
+.item5{
+    box-shadow: 0 2px 8px  #010a16;
+    
+}
+.logo:hover{
+    color: rgb(231, 27, 187);
+}
+.item1:hover{
+    color: rgb(231, 27, 187);
+}
+.item2:hover{
+    color: rgb(231, 27, 187);
+}
+.item3:hover{
+    color: rgb(231, 27, 187);
+}
+.item4:hover{
+    color: rgb(231, 27, 187);
+}
+.item5:hover{
+    color: rgb(231, 27, 187);
+}
