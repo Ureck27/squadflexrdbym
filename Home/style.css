@@ -31,10 +31,10 @@ body{
     height: 45px;
 }
 
-a{
-    color: none;
-    list-style: none;
-    font-style: none;
+
+ div a {
+    all: unset;
+    cursor: pointer;
 }
 
 .logo{

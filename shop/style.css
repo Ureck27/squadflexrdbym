@@ -20,12 +20,10 @@ body{
     height: 45px;
 }
 
-a{
-    color: none;
-    list-style: none;
-    font-style: none;
+div a {
+    all: unset;
+    cursor: pointer;
 }
-
 .logo{
      color: #f2f2f3;
      box-shadow: 0 2px 8px  #010a1f;
